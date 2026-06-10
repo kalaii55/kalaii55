@@ -1,11 +1,26 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Kalaimani%20M&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=SOC%20Analyst%20%7C%20Cybersecurity%20Analyst%20%7C%20SIEM%20%26%20Threat%20Hunting&descAlignY=60&descSize=18)
+<h1>👋 Hi, I'm Kalaimani M</h1>
+<h3>🛡️ SOC Analyst &nbsp;|&nbsp; Cybersecurity Analyst &nbsp;|&nbsp; SIEM & Threat Hunting</h3>
 
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=🛡️+SOC+Analyst+%7C+Threat+Hunter;🔍+Microsoft+Sentinel+%7C+IBM+QRadar+%7C+Splunk;📋+Incident+Response+%26+Log+Analysis;🚨+Turning+Noise+into+Actionable+Intel" alt="Typing SVG" />
+![SOC Analyst](https://img.shields.io/badge/Role-SOC%20Analyst%20Intern%20%40%20EY-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Threat Hunter](https://img.shields.io/badge/Specialty-Threat%20Hunting-D62828?style=for-the-badge&logo=target&logoColor=white)
+![Location](https://img.shields.io/badge/📍-Chennai%2C%20India-38BDAE?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-BF91F3?style=for-the-badge&logo=checkmarx&logoColor=white)
+
+<br/>
+
+![](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![](https://img.shields.io/badge/IBM%20QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![](https://img.shields.io/badge/Incident%20Response-FF6633?style=flat-square)
+![](https://img.shields.io/badge/Threat%20Hunting-D62828?style=flat-square)
+![](https://img.shields.io/badge/KQL-0078D4?style=flat-square)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
 </div>
 
 <br/>
