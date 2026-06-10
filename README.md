@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kalaimani%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SOC%20Analyst%20%7C%20Cybersecurity%20Analyst%20%7C%20SIEM%20%26%20Threat%20Hunting&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0078D4&height=180&section=header&text=Kalaimani%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SOC%20Analyst%20%7C%20Cybersecurity%20Analyst%20%7C%20SIEM%20%26%20Threat%20Hunting&descAlignY=62&descSize=16" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=SOC+Analyst+%7C+Threat+Hunter;Microsoft+Sentinel+%7C+IBM+QRadar+%7C+Splunk;Incident+Response+%26+Log+Analysis;Turning+Noise+into+Actionable+Intel+%F0%9F%94%8D" alt="Typing SVG" />
@@ -92,15 +92,21 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Skills & Expertise
 
 <div align="center">
-  <a href="https://github.com/kalaii55">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalaii55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/kalaii55">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalaii55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+
+| Domain | Proficiency |
+|:-------|:------------|
+| 🔵 Microsoft Sentinel / KQL | ![](https://img.shields.io/badge/Advanced-95%25-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| 🔵 IBM QRadar | ![](https://img.shields.io/badge/Proficient-85%25-052FAD?style=flat-square&logo=ibm&logoColor=white) |
+| 🟣 Splunk | ![](https://img.shields.io/badge/Proficient-80%25-000000?style=flat-square&logo=splunk&logoColor=white) |
+| 🔴 Threat Hunting & Log Analysis | ![](https://img.shields.io/badge/Advanced-90%25-D62828?style=flat-square) |
+| 🟠 Incident Response | ![](https://img.shields.io/badge/Proficient-85%25-FF6633?style=flat-square) |
+| 🟢 Python / KQL / JavaScript | ![](https://img.shields.io/badge/Proficient-80%25-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🔵 Burp Suite / Nmap / Wireshark | ![](https://img.shields.io/badge/Proficient-85%25-1679A7?style=flat-square&logo=wireshark&logoColor=white) |
+| 🟡 MITRE ATT%26CK / OWASP Top 10 | ![](https://img.shields.io/badge/Advanced-90%25-F7DF1E?style=flat-square&logoColor=black) |
+
 </div>
 
 ---
@@ -117,14 +123,6 @@ print(me.motto())
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kalaii55&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kalaii55&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -233,4 +231,4 @@ print(me.motto())
   <b>— Kalaimani M 🛡️</b>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0078D4&height=120&section=footer&animation=twinkling" />
