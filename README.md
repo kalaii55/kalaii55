@@ -3,14 +3,16 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=🛡️+SOC+Analyst+%7C+Threat+Hunter;🔍+Microsoft+Sentinel+%7C+IBM+QRadar+%7C+Splunk;📋+Incident+Response+%26+Log+Analysis;🚨+Turning+Noise+into+Actionable+Intel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=SOC+Analyst+%7C+Threat+Hunter;Microsoft+Sentinel+%7C+IBM+QRadar+%7C+Splunk;Incident+Response+%26+Log+Analysis;Turning+Noise+into+Actionable+Intel" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td valign="top" width="60%">
 
-| 👤 About Me | |
+| 👤 **About Me** | **Kalaimani M** |
 |:---|:---|
 | 📍 **Location** | Chennai, Tamil Nadu, India |
 | 🎓 **Degree** | M.Tech – Information Security & Cyber Forensics |
@@ -22,7 +24,14 @@
 | ⚡ **Fun Fact** | I treat every alert like a crime scene — the logs never lie |
 | 🎯 **Motto** | *Detect Early. Respond Fast. Harden Always.* 🛡️ |
 
-</div>
+</td>
+<td valign="middle" width="40%" align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding Animation" />
+<br/><br/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Cybersecurity Animation" />
+</td>
+</tr>
+</table>
 
 <br/>
 
