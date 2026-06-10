@@ -6,7 +6,9 @@
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```python
 #!/usr/bin/env python3
@@ -16,8 +18,8 @@ class KalaimaniM:
     def __init__(self):
         self.name             = "Kalaimani M"
         self.location         = "Chennai, Tamil Nadu, India"
-        self.degree           = "M.Tech – Information Security & Cyber Forensics"
-        self.current_role     = "SOC Analyst Intern @ EY (Ernst & Young)"
+        self.degree           = "M.Tech – InfoSec & Cyber Forensics"
+        self.current_role     = "SOC Analyst Intern @ EY"
 
         self.siem_stack       = [
             "Microsoft Sentinel", "IBM QRadar",
@@ -30,15 +32,15 @@ class KalaimaniM:
         self.languages        = ["Python", "JavaScript", "KQL"]
 
         self.currently_learning = [
-            "Advanced Threat Hunting techniques",
+            "Advanced Threat Hunting",
             "SOAR Playbook Automation",
-            "Cloud Security (Azure Sentinel deep-dive)",
+            "Cloud Security (Azure Sentinel)",
             "CTF & Red Team Operations"
         ]
 
         self.fun_fact = (
-            "I treat every security alert like a crime scene — "
-            "the logs never lie if you know how to read them."
+            "I treat every alert like a crime scene —"
+            " the logs never lie."
         )
 
     def motto(self) -> str:
@@ -48,7 +50,12 @@ me = KalaimaniM()
 print(me.motto())
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="45%" align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" />
+</td>
+</tr>
+</table>
 
 ---
 
