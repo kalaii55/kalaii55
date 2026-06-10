@@ -1,61 +1,40 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0078D4&height=180&section=header&text=Kalaimani%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SOC%20Analyst%20%7C%20Cybersecurity%20Analyst%20%7C%20SIEM%20%26%20Threat%20Hunting&descAlignY=62&descSize=16" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0078D4&height=200&section=header&text=Kalaimani%20M&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=SOC%20Analyst%20%7C%20Cybersecurity%20Analyst%20%7C%20SIEM%20%26%20Threat%20Hunting&descAlignY=60&descSize=18" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=SOC+Analyst+%7C+Threat+Hunter;Microsoft+Sentinel+%7C+IBM+QRadar+%7C+Splunk;Incident+Response+%26+Log+Analysis;Turning+Noise+into+Actionable+Intel+%F0%9F%94%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=🛡️+SOC+Analyst+%7C+Threat+Hunter;🔍+Microsoft+Sentinel+%7C+IBM+QRadar+%7C+Splunk;📋+Incident+Response+%26+Log+Analysis;🚨+Turning+Noise+into+Actionable+Intel" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<div align="center">
 
-```python
-#!/usr/bin/env python3
-# kalaimani_m.py — SOC Analyst Profile
+| 👤 About Me | |
+|:---|:---|
+| 📍 **Location** | Chennai, Tamil Nadu, India |
+| 🎓 **Degree** | M.Tech – Information Security & Cyber Forensics |
+| 💼 **Current Role** | SOC Analyst Intern @ EY (Ernst & Young) |
+| 🔧 **SIEM Stack** | Microsoft Sentinel · IBM QRadar · Splunk · MS Defender |
+| 🛠️ **Security Tools** | Burp Suite · Nmap · Wireshark · Kali Linux · CrowdStrike |
+| 💻 **Languages** | Python · JavaScript · KQL |
+| 📚 **Learning** | Advanced Threat Hunting · SOAR Automation · Azure Security |
+| ⚡ **Fun Fact** | I treat every alert like a crime scene — the logs never lie |
+| 🎯 **Motto** | *Detect Early. Respond Fast. Harden Always.* 🛡️ |
 
-class KalaimaniM:
-    def __init__(self):
-        self.name             = "Kalaimani M"
-        self.location         = "Chennai, Tamil Nadu, India"
-        self.degree           = "M.Tech – InfoSec & Cyber Forensics"
-        self.current_role     = "SOC Analyst Intern @ EY"
+</div>
 
-        self.siem_stack       = [
-            "Microsoft Sentinel", "IBM QRadar",
-            "Splunk", "Microsoft Defender"
-        ]
-        self.security_tools   = [
-            "Burp Suite", "Nmap", "Wireshark",
-            "Kali Linux", "CrowdStrike EDR"
-        ]
-        self.languages        = ["Python", "JavaScript", "KQL"]
+<br/>
 
-        self.currently_learning = [
-            "Advanced Threat Hunting",
-            "SOAR Playbook Automation",
-            "Cloud Security (Azure Sentinel)",
-            "CTF & Red Team Operations"
-        ]
-
-        self.fun_fact = (
-            "I treat every alert like a crime scene —"
-            " the logs never lie."
-        )
-
-    def motto(self) -> str:
-        return "Detect Early. Respond Fast. Harden Always. 🛡️"
-
-me = KalaimaniM()
-print(me.motto())
-```
-
-</td>
-<td valign="top" width="45%" align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kalaii55&color=70a5fd&style=flat-square&label=Profile+Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%7C%20SOC-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Available-Open%20to%20Opportunities-BF91F3?style=flat-square&logo=checkmarx&logoColor=white" />
+</div>
 
 ---
 
@@ -203,10 +182,8 @@ print(me.motto())
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-kalaiofficial48%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kalaiofficial48@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kalaimani--m-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalaii55)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kalaimani--m-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalaimani-m)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%208220375592-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918220375592)
-
-![Profile Views](https://komarev.com/ghpvc/?username=kalaii55&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
