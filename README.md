@@ -1,9 +1,11 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0078D4&height=200&section=header&text=Kalaimani%20M&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=SOC%20Analyst%20%7C%20Cybersecurity%20Analyst%20%7C%20SIEM%20%26%20Threat%20Hunting&descAlignY=60&descSize=18" />
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Kalaimani%20M&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=SOC%20Analyst%20%7C%20Cybersecurity%20Analyst%20%7C%20SIEM%20%26%20Threat%20Hunting&descAlignY=60&descSize=18)
+
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=SOC+Analyst+%7C+Threat+Hunter;Microsoft+Sentinel+%7C+IBM+QRadar+%7C+Splunk;Incident+Response+%26+Log+Analysis;Turning+Noise+into+Actionable+Intel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=🛡️+SOC+Analyst+%7C+Threat+Hunter;🔍+Microsoft+Sentinel+%7C+IBM+QRadar+%7C+Splunk;📋+Incident+Response+%26+Log+Analysis;🚨+Turning+Noise+into+Actionable+Intel" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -26,9 +28,9 @@
 
 </td>
 <td valign="middle" width="40%" align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding Animation" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="290" alt="Coding Animation" />
 <br/><br/>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Cybersecurity Animation" />
+<img src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" width="290" alt="Hacker Animation" />
 </td>
 </tr>
 </table>
@@ -203,4 +205,4 @@
   <b>— Kalaimani M 🛡️</b>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0078D4&height=120&section=footer&animation=twinkling" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=footer&animation=twinkling)
